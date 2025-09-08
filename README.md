@@ -13,10 +13,6 @@ This agent uses LiveKit that is 100% free!
 
 ---
 
-## 📽️ Tutorial Video
-
-Before you start, **make sure to follow this tutorial to set up the voice agent correctly**:  
-🎥 [Watch here](https://youtu.be/An4NwL8QSQ4?si=v1dNDDonmpCG1Els)
 
 ---
 1. Create the Virtual Envrionment first!
@@ -24,5 +20,8 @@ Before you start, **make sure to follow this tutorial to set up the voice agent 
 3. Install all the required libraries in the requirements.txt file
 4. In the .ENV - File you should paste your API-Keys and your LiveKit Secret, LiveKit URL.
    If you want to use the Send Email Tool also specify your Gmail Account and App Password. 
-5. Make sure that your LiveKit Account is set-up correctly. 
+5. Make sure that your LiveKit Account is set-up correctly.
+6. Then we have to run python agent.py
+7. And then run the server
+   
 
